@@ -127,7 +127,7 @@
 
 }
 .content-body {
-    height: 600px; 
+    height: 500px; 
     margin: 50px;     
     /* display: flex;
     flex-wrap: wrap; */
@@ -213,7 +213,7 @@ input[type=submit] {
 
 .text-block {
     position: absolute;
-    bottom: 170px;
+    bottom: 110px;
     right: 956px;
     background-color: teal; 
     color: white;
@@ -225,7 +225,7 @@ input[type=submit] {
 
 .text-block1 {
     position: absolute;
-    bottom: -55px;
+    bottom: -110px;
     right: 956px;
     background-color: teal; 
     color: white;
@@ -237,7 +237,7 @@ input[type=submit] {
     
 .text-block2 {
     position: absolute;
-    bottom: -280px;
+    bottom: -330px;
     right: 956px;
     background-color: teal; 
     color: white;
@@ -249,7 +249,7 @@ input[type=submit] {
 
 .text-block3 {
     position: absolute;
-    bottom: 170px;
+    bottom: 110px;
     right: 656px;
     background-color: teal; 
     color: white;
@@ -261,7 +261,7 @@ input[type=submit] {
 
 .text-block4 {
     position: absolute;
-    bottom: -55px;
+    bottom: -110px;
     right: 656px;
     background-color: teal; 
     color: white;
